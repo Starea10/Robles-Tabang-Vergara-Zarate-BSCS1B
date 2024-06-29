@@ -15,4 +15,4 @@ This project is served using Java, cooked with packages Abstract Window Toolkit 
 
 See for yourself. :)
 
-![](./HangmanSwing/HangmanVidPreview.MOV)
+![](./HangmanSwing/HangmanVidPreview.mov)
