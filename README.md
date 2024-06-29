@@ -15,4 +15,8 @@ This project is served using Java, cooked with packages Abstract Window Toolkit 
 
 See for yourself. :)
 
-[](https://raw.githubusercontent.com/Starea10/Robles-Tabang-Vergara-Zarate-BSCS1B/HangmanSwing/HangmanVidPreview.mov)
+
+<video src = "https://github.com/Starea10/Robles-Tabang-Vergara-Zarate-BSCS1B/assets/70992029/b84adc82-4c43-42bc-9028-5b066450a5bc" width = "100%">
+
+
+
